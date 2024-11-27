@@ -10,6 +10,6 @@ pkg update && pkg upgrade
 pkg install python git
 pip install requests futures bs4
 https://github.com/4Dad777/Test
-cd test
+cd Test
 python moonton.py
 ```
